@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+body {
+	font-family: Outfit;
+  background-color: - White: hsl(0, 0%, 100%);
+  /* d5e1ef */
+}
+
+.main-area .area img {
+	width: 200px;
+}
